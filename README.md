@@ -2,7 +2,7 @@
 
 Browser extension for generating strong passwords in one click, not suitable for cryptographic purposes.
 
-![screenshot](http://backdaniel.com/img/password-screenshot.png)
+![screenshot](http://backdaniel.com/img/screenshot/password-extension.png)
 
 ## Packaging
 
